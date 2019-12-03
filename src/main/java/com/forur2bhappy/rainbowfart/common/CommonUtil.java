@@ -100,4 +100,8 @@ public class CommonUtil {
         System.out.println(ipInfo);
         return ipInfo;
     }
+
+    public static void main(String[] args){
+
+    }
 }
